@@ -1,12 +1,12 @@
 .{
     .name = "capstone",
-    .version = "5.0.1",
-    .minimum_zig_version = "0.13.0",
+    .version = "5.0.3",
+    .minimum_zig_version = "0.14.0-dev.2627+6a21d18ad",
 
     .dependencies = .{
         .capstone = .{
-            .url = "https://github.com/capstone-engine/capstone/archive/refs/tags/5.0.1.tar.gz",
-            .hash = "12203db27899cf191689d4c4a37497e0bfb5e9e185ac8bb968792c5d138d64a75119",
+            .url = "https://github.com/capstone-engine/capstone/archive/refs/tags/5.0.3.tar.gz",
+            .hash = "12205b5aeff10d3e17887132f277df727748e3733ed3649a10b0ae72ab4a73607a7c",
         },
     },
 
